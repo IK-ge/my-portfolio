@@ -25,6 +25,7 @@ a {
 }
 h1 {
   text-align: center;
+  width: 200px;
   border-bottom: solid 10px mediumseagreen;
 }
 .profile {
