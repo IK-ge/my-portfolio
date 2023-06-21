@@ -10,7 +10,7 @@ header {
 nav {
   width: 100%;
   height: 50px;
-  background-color: palegreen;
+  background-color: black;
   font-size: 30px;
 }
 ul {
@@ -33,32 +33,32 @@ h1 {
 }
 .name {
   padding-bottom: 40px;
-  font-size: 40px;
+  font-size: 20px;
 }
 .birthday {
   padding-bottom: 40px;
-  font-size: 40px;
+  font-size: 20px;
 }
 .university {
   padding-bottom: 40px;
-  font-size: 40px;
+  font-size: 20px;
 }
 .major {
   padding-bottom: 40px;
-  font-size: 40px;
+  font-size: 20px;
 }
 .grade {
   padding-bottom: 40px;
-  font-size: 40px;
+  font-size: 20px;
 }
 .hobby {
   padding-bottom: 40px;
-  font-size: 40px;
+  font-size: 20px;
 }
 .license {
   text-align: center;
   padding-bottom: 40px;
-  font-size: 40px;
+  font-size: 20px;
 }
 .license3 {
   border-bottom: solid 10px lightyellow;
@@ -66,7 +66,7 @@ h1 {
 .product {
   text-align: center;
   padding-bottom: 40px;
-  font-size: 40px;
+  font-size: 20px;
 }
 .product1 {
   border-bottom: solid 10px lightyellow;
