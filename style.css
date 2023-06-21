@@ -69,7 +69,9 @@ h1 {
   padding-top: 20px
 }
 .explanation {
+  padding-top: 10px;
   border-bottom: solid 10px royalblue;
+  font-size: 20px;
 }
 .sozai {
   text-align: right;
