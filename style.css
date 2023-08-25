@@ -63,6 +63,9 @@ img {
   padding-bottom: 40px;
   font-size: 25px;
 }
+.license3{
+  border-bottom: solid 10px royalblue;
+}
 
 .product {
   text-align: center;
